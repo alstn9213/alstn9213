@@ -13,17 +13,6 @@
 | **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"> |
 | **Tools/Etc** | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"> |
 
----
-
-## 📌 주요 프로젝트 (Featured Projects)
-
-| 프로젝트 명 | 요약 | 상세 보기 |
-| :--- | :--- | :--- |
-| **TLAN** | 여행자를 위한 관광지 정보와 여행 일정 관리 사이트 | [바로가기](https://github.com/PPKK-Project/Tlan) |
-| **EstimateCompany** | 기업 가치 평가 웹 사이트 | [바로가기](https://github.com/alstn9213/company_value_project) |
-
----
-
 <div align="center">
   
   ## 📊 깃허브 통계 (GitHub Stats)
@@ -34,3 +23,11 @@
 
 ---
 
+## 📌 주요 프로젝트 (Featured Projects)
+
+| 프로젝트 명 | 요약 | 상세 보기 |
+| :--- | :--- | :--- |
+| **TLAN** | 여행자를 위한 관광지 정보와 여행 일정 관리 사이트 | [바로가기](https://github.com/PPKK-Project/Tlan) |
+| **EstimateCompany** | 기업 가치 평가 웹 사이트 | [바로가기](https://github.com/alstn9213/company_value_project) |
+
+---
