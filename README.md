@@ -35,10 +35,3 @@
 
 </div>
 
----
-
-## 📧 Contact & Channel
-
-[![Tistory Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=tistory&logoColor=white)](<YOUR_BLOG_LINK>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](<YOUR_LINKEDIN_LINK>)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:<YOUR_EMAIL_ADDRESS>)
