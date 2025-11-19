@@ -28,8 +28,6 @@
   
   ## 📊 깃허브 통계 (GitHub Stats)
   
-  <img src="https://github-readme-stats.vercel.app/api?username=alstn9213&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstn9213&layout=compact&theme=default&hide_border=true&hide=css,html,php" alt="Top Languages">
 
 </div>
