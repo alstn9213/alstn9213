@@ -27,8 +27,8 @@
 
 | 프로젝트 명 | 요약 | 상세 보기 |
 | :--- | :--- | :--- |
-| **<YOUR_PROJECT_NAME_1>** | [여행자를 위한 관광지 정보와 여행 일정 관리 사이트] | [바로가기](https://github.com/PPKK-Project/Tlan) |
-| **<YOUR_PROJECT_NAME_2>** | [기업 가치 평가 웹 사이트] | [바로가기](https://github.com/alstn9213/company_value_project) |
+| **<TLAN>** | [여행자를 위한 관광지 정보와 여행 일정 관리 사이트] | [바로가기](https://github.com/PPKK-Project/Tlan) |
+| **<EstimateCompany>** | [기업 가치 평가 웹 사이트] | [바로가기](https://github.com/alstn9213/company_value_project) |
 | **<YOUR_PROJECT_NAME_3>** | [프로젝트 핵심 기능 한 줄 요약] | [바로가기](https://github.com/YOUR_USERNAME/YOUR_PROJECT_REPO_3) |
 
 ---
