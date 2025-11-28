@@ -62,7 +62,7 @@
         <td>
           <b>업종별 폐업률을 바탕으로한 창업 업종 추천 사이트</b><br>
           <br>
-          <a href=" https://github.com/alstn9213/Open-Insight-Personal-Project-">
+          <a href="https://github.com/alstn9213/Open-Insight-Personal-Project-">
             <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github">
           </a>
         </td>
