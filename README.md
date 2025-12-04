@@ -75,7 +75,7 @@
 
   <h3>📊 Language Usage</h3>
   <a href="https://github.com/alstn9213">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstn9213&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="alstn9213's Top Langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstn9213&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=Jupyter%20Notebook" alt="alstn9213's Top Langs" />
   </a>
 
 </div>
