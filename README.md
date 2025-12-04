@@ -38,16 +38,6 @@
     </thead>
     <tbody>
       <tr>
-        <td align="center"><b>TLAN</b><br>(Team Project)</td>
-        <td>
-          <b>여행자를 위한 관광지 정보 및 여행 일정 관리 서비스</b><br>
-          <br>
-          <a href="https://github.com/PPKK-Project/Tlan">
-            <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github">
-          </a>
-        </td>
-      </tr>
-      <tr>
         <td align="center"><b>Value Pick</b><br>(Personal Project)</td>
         <td>
           <b>재무 데이터를 활용한 기업 가치 평가 웹 사이트</b><br>
@@ -63,6 +53,16 @@
           <b>업종별 폐업률을 바탕으로한 창업 업종 추천 사이트</b><br>
           <br>
           <a href="https://github.com/alstn9213/Open-Insight-Personal-Project-">
+            <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github">
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>TLAN</b><br>(Team Project)</td>
+        <td>
+          <b>여행자를 위한 관광지 정보 및 여행 일정 관리 서비스</b><br>
+          <br>
+          <a href="https://github.com/PPKK-Project/Tlan">
             <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github">
           </a>
         </td>
