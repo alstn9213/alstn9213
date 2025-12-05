@@ -69,13 +69,3 @@
       </tr>
     </tbody>
   </table>
-
-  <br>
-  <br>
-
-  <h3>📊 Language Usage</h3>
-  <a href="https://github.com/alstn9213">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alstn9213&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=css,html" alt="alstn9213's Top Langs" />
-  </a>
-
-</div>
