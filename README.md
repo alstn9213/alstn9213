@@ -83,6 +83,11 @@
         <td>
           <b>여행자를 위한 관광지 정보 및 여행 일정 관리 서비스</b><br>
           <br>
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+          <img src="https://img.shields.io/badge/Python(Data)-3776AB?style=flat-square&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+          <br>
+          <br>
           <a href="https://github.com/PPKK-Project/Tlan">
             <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github">
           </a>
