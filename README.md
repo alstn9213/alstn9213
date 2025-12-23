@@ -84,7 +84,7 @@
       <tr>
         <td align="center"><b>Open Insight</b><br>(Personal Project)</td>
         <td>
-          <b>업종별 폐업률 바탕 창업 업종 추천 서비스</b><br>
+          <b>지역별 인구수와 지역내 점포수를 바탕으로 레드오션을 판별하는 웹사이트</b><br>
           <br>
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
           <img src="https://img.shields.io/badge/QueryDSL-007ACC?style=flat-square&logo=probot&logoColor=white">
